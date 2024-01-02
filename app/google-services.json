@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504105910027",
+    "project_id": "ifemiii",
+    "storage_bucket": "ifemiii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504105910027:android:2226ec74958328e1aaac0e",
+        "android_client_info": {
+          "package_name": "com.example.memybabe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0cXM3r8T-N8_KajLYasqiZV083DZj8Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
